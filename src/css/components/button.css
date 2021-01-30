@@ -1,0 +1,8 @@
+.button {
+	cursor: pointer;	
+	color: #fff;
+}
+
+.button_dark { 
+	color: #555;
+}

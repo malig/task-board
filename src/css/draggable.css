@@ -1,0 +1,13 @@
+.draggable {
+	margin: 5px;	
+}
+ 
+.dragged {}
+ 
+.placeholder {
+	opacity: 0.3;	
+	box-sizing: border-box;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	user-select: none;	
+}
